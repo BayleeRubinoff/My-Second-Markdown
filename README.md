@@ -1,6 +1,6 @@
-##First Heading
+#First Heading
 
-#First small heading
+##First small heading
 
 # **bold** *italic*
 ***italic bold***
